@@ -25,3 +25,5 @@ jobs:
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_FLUTTER_PROJECT_62211506 }}"
           projectId: flutter-project-62211506
           channelId: live
+
+          
